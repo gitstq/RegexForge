@@ -1,0 +1,4 @@
+# RegexForge
+
+# Zero external dependencies - uses only Python standard library
+# No requirements needed!
